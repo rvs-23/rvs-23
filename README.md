@@ -1,5 +1,5 @@
 <h1 align="left">Hello ^_^, I'm Rishav Sharma</h1>
-<h3 align="center">An aspiring Data Scientist currently pursuing Master of Operational Research from University of Delhi.</h3>
+<h3 align="center">Junior Data Scientist @SwissRe</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvs-23&label=Profile%20views&color=0e75b6&style=flat" alt="rvs-23" /> </p>
 
