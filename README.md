@@ -1,5 +1,5 @@
 <h1 align="left">Hello :) I'm Rishav Sharma</h1>
-<h3 align="center">Currently, a Junior Data Scientist! </h3>
+<h3 align="center">Currently working as a Data Scientist! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvs-23&label=Profile%20views&color=0e75b6&style=flat" alt="rvs-23" /> </p>
 
