@@ -6,7 +6,7 @@
 
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/terminal.svg" width="30" height="30" alt="Terminal Icon"/> Hello there, I'm Rishav Sharma</h1>
-  <h3>&lt; Data Scientist / Software Engineer &gt;</h3>
+  <h3>&lt; Data Scientist / Developer / Foundry Specialist / Educator &gt;</h3>
   <p><i>Navigating the digital frontiers and decoding the matrix of data.</i></p>
 </div>
 
