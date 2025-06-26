@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <em>"Choice is an illusion created between those with power and those without." - The Oracle</em>
+  <em>"You have already made the choice. Now, you just have to understand it."</em>
 </p>
